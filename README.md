@@ -14,7 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-##how to get firebase config
+## How to get firebase config
 
 In that you have to create a firebase account and create a new Project.
 and set up realtime database.
