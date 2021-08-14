@@ -17,7 +17,7 @@ You will also see any lint errors in the console.
 ## How to get firebase config
 
 In that you have to create a firebase account and create a new Project.
-and set up realtime database.
+Then set up realtime database.
 
 ### `npm test`
 
